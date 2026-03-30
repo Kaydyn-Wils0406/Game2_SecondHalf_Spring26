@@ -1318,3 +1318,7 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.30-07.11.38:976][827]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9943F8A1-4762-C6C4-0DDE-4DBCB91765D3%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.7.4-51494982%2B%2B%2BUE5%2BRelease-5.7&UserID=b1657a8341e2548e2dec7780e681dacf%7C3edce18ef1ea4b9c87843916f758f2aa%7C50bcaaa4-453c-4b72-8c53-daad8d89b87b&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
 [2026.03.30-07.11.39:381][827]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
 [2026.03.30-07.11.39:381][827]LogNFORDenoise: NFORDenoise function shutting down
+[2026.03.30-07.11.39:383][827]LogPakFile: Destroying PakPlatformFile
+[2026.03.30-07.11.39:544][827]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.03.30-07.11.39:565][827]LogExit: Exiting.
+[2026.03.30-07.11.39:584][827]Log file closed, 03/30/26 02:11:39
